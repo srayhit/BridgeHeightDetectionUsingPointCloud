@@ -13,7 +13,7 @@ bridge heights was less than 3 cm.
 
 # Block Diagram
 
-![] blockDiagram.jpg
+![] blockDiagram.png
 
 # Requirements
 
@@ -26,7 +26,7 @@ bridge heights was less than 3 cm.
 
 # Point Cloud View from the Gazebo simulaltion
 
-![] pointCloudViewGazebo.jpg
+![] pointCloudViewGazebo.png
 
 # Topics covered
 
