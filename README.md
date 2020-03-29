@@ -13,8 +13,8 @@ bridge heights was less than 3 cm.
 
 # Block Diagram
 
-![alt text] (https://github.com/srayhit/BridgeHeightDetectionUsingPointCloud/blob/master/blockDiagram.png "Block Diagram")
-
+![alt text] ( "Block Diagram")
+![alt text](https://github.com/srayhit/BridgeHeightDetectionUsingPointCloud/blob/master/blockDiagram.png "Block Diagram")
 # Requirements
 
 1. ROS Indigo or Kinetic
