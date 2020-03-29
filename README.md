@@ -13,7 +13,7 @@ bridge heights was less than 3 cm.
 
 # Block Diagram
 
-![] blockDiagram.png
+![] (blockDiagram.png)
 
 # Requirements
 
