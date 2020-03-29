@@ -12,8 +12,6 @@ between dissimilar parallel planes. The maximum error recorded over multiple
 bridge heights was less than 3 cm.
 
 # Block Diagram
-
-![alt text] ( "Block Diagram")
 ![alt text](https://github.com/srayhit/BridgeHeightDetectionUsingPointCloud/blob/master/blockDiagram.png "Block Diagram")
 # Requirements
 
@@ -26,8 +24,7 @@ bridge heights was less than 3 cm.
 
 # Point Cloud View from the Gazebo simulaltion
 
-![] pointCloudViewGazebo.png
-
+![alt text](https://github.com/srayhit/BridgeHeightDetectionUsingPointCloud/blob/master/pointCloudViewGazebo.png "Block Diagram")
 # Topics covered
 
 1. ROS
