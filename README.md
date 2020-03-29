@@ -1,5 +1,10 @@
 # BridgeHeightDetectionUsingPointCloud
 
+### Title: "Bridge Collision Detection using Multi-View Geometry and Point Cloud processing"
+
+
+### Abstract
+
 It is not rare to find situations where a truck/RV or other tall vehicle is unable to
 traverse a certain road due to the presence of a low-height bridge on the route.
 We propose a system to detect the height of a bridge beforehand using monocular
