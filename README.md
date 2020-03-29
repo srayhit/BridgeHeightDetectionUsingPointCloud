@@ -13,7 +13,7 @@ bridge heights was less than 3 cm.
 
 # Block Diagram
 
-![] (blockDiagram.png)
+![alt text] (https://github.com/srayhit/BridgeHeightDetectionUsingPointCloud/blob/master/blockDiagram.png "Block Diagram")
 
 # Requirements
 
